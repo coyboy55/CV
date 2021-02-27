@@ -1,0 +1,37 @@
+header{
+	background-color: black;
+	height: 60px;
+}
+#p1{
+	color: white;
+	margin-left: 90px;
+}
+#p2{
+	color: white;
+	margin-left: 350px;
+}
+#p3{
+	color: white;
+	margin-left:400px;
+}
+h4{
+	text-align: center;
+}
+
+#h44{
+	text-indent: bold;
+	text-align: left;
+	color: red;
+	text-decoration: underline;
+	font-size: 20px;
+}
+#div2{
+color: blue;	
+}
+table{
+	margin: auto;
+}
+.PC{
+	color: red;
+	text-decoration: underline;
+}
